@@ -1,0 +1,23 @@
+{
+  "name": "MaratonaDev-3.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rychillie/MaratonaDev-3.0.git"
+  },
+  "keywords": [],
+  "author": "Rychillie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rychillie/MaratonaDev-3.0/issues"
+  },
+  "homepage": "https://github.com/Rychillie/MaratonaDev-3.0#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
