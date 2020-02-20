@@ -42,6 +42,16 @@
 ### Capturas de Tela
 <img align="center" src="./public/others/screencapture.png"></img>
 
+## 🤔 Como executar
+
+- Instale o Node/NPM;
+- Com o projeto aberto execute o comando: `npm install express` para instalar o Express;
+- Com o projeto aberto execute o comando: `npm install nodemon` para instalar o Nodemon;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
 ## :memo: Licença
 
 #### Esse projeto está sob a licença [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
