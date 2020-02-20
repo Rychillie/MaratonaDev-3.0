@@ -44,13 +44,16 @@
 
 ## 🤔 Como executar
 
+_Escrevendo tutorial_
+
+<!--
 - Instale o Node/NPM;
 - Com o projeto aberto execute o comando: `npm install express` para instalar o Express;
 - Com o projeto aberto execute o comando: `npm install nodemon` para instalar o Nodemon;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.-->
 
 ## :memo: Licença
 
