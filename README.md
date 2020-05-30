@@ -23,7 +23,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-## :rocket: Tecnologias, ferramentas e dependências
+## 🚀 Tecnologias, ferramentas e dependências
 
 ### Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -39,22 +39,31 @@
 
 #### O Doe Sangue é um projeto para incentivar, encontrar e registrar doadores de sangue, desenvolvido entre os dias 17 e 20 de Fevereiro de 2020 na MaratonaDev da Rocketseat.
 
-### Capturas de Tela
+### Capturas de Tela:
 <img align="center" src="./public/others/screencapture.png"></img>
 
 ## 🤔 Como executar
 
-_Escrevendo tutorial_
+- Clone este repositório ou faça o donwnload do mesmo para uma pasta no seu computador;
+- Realize o download e a instalação do [Node/NPM](https://nodejs.org/en/download/ "NodeJS WebSite");
+- Abra o projeto no seu editor favorito(exemplo: VSCode) e execute o seguinte comando no seu terminal para realizar a instalação do NPM/NodeJS no projeto;
+```
+npm install
+```
+- Ainda na pasta do projeto execute o seguinte comando para realizar a instalação do Express;
+```
+npm install express
+```
+- Ainda na pasta do projeto execute o seguinte comando para realizar a instalação do Nodemon;
+```
+npm install nodemon
+```
+- Ainda na pasta do projeto execute o seguinte comando para realizar a instalação do Nunjucks;
+```
+npm install nunjucks
+```
 
-<!--
-- Instale o Node/NPM;
-- Com o projeto aberto execute o comando: `npm install express` para instalar o Express;
-- Com o projeto aberto execute o comando: `npm install nodemon` para instalar o Nodemon;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.-->
-
-## :memo: Licença
+## 📝 Licença
 
 #### Esse projeto está sob a licença [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
